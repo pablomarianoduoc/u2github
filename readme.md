@@ -1,1 +1,1 @@
-# hecho por Pablo Mariano en la clase de GIT
+# Hecho por Pablo Mariano en la clase de GIT
